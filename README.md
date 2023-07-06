@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yara Abazah
-- 👀 I’m interested in Computer Science, data analysis, and the implementation of AI technology in the field of medicine
-- 🌱 I’m currently studying Mathematics and Computer Science at Boston University
+- 👀 I’m interested in Computer Science, SWE, data analysis, and the implementation of AI technology in the field of medicine
+- 🌱 Graduated with a  Mathematics and Computer Science from Boston University
 - 📫 How to reach me: abazahey@gmail.com; yabazah@bu.edu
 
 <!---
